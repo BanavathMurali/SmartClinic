@@ -226,5 +226,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 👨‍💻 [Prudhvi-232](https://github.com/Prudhvi-232)
 - 👩‍💻 [nidhishkureti](https://github.com/nidhishkureti)
 - 👨‍💻 [SiddharthPaladi](https://github.com/SiddharthPaladi)
+- 👨‍💻 [Banavath Murali](https://github.com/BanavathMurali)
 
 ---
